@@ -1,3 +1,5 @@
+Language: Dart
+
 # cryptoprice_tracker
 
 A new Flutter project.
